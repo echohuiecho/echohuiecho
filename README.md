@@ -7,5 +7,5 @@ Some technologies I enjoy working with include WebGL([:black_circle:Three.js](ht
 
 ## More projects on the web:globe_with_meridians::
 - More of my new media artworks on [echohuiecho.com](https://www.echohuiecho.com/)
-- An artist-led virtual platform based in Hong Kong. It will focus on the loss of smell, smell awareness and visualization of smell related data. Coming soon on [noseborg.com]()
-- An :clock1:ongoing experimental, fictional and virtual hotel project on [amorphoushotel.com](https://www.amorphoushotel.com/). A project working with a Hong Kong female artist [Kelly Chu](https://www.kellychukelly.com) in a renowned hotel [Eaton HK](https://www.eatonworkshop.com/) under Langham Hospitality Group.
+- An artist-led virtual platform based in Hong Kong. It will focus on the loss of smell, smell awareness and visualization of smell related data. Coming soon on [noseborg.com](https://www.noseborg.com/)
+- An :clock1:ongoing experimental, fictional and virtual hotel project on [amorphoushotel.com](https://www.amorphoushotel.com/). A project working with a Hong Kong female artist [Kelly Chu](https://www.chukellychu.com) in a renowned hotel [Eaton HK](https://www.eatonworkshop.com/) under Langham Hospitality Group.
