@@ -6,6 +6,6 @@ I am a new media artist, a creative developer and a web developer who explores o
 Some technologies I enjoy working with include WebGL([:black_circle:Three.js](https://threejs.org/)), [Vue.js](https://vuejs.org/), [P5.js](https://p5js.org/) and Python.
 
 ## More projects on the web:globe_with_meridians::
+- :clock1: Live Now at [amorphoushotel.com](https://www.amorphoushotel.com/):clock11:Amorphous Hotel is an experimental, fictional and virtual hotel project working with a Hong Kong female artist [Kelly Chu](https://www.chukellychu.com) in a renowned hotel [Eaton HK](https://www.eatonworkshop.com/) under Langham Hospitality Group.
 - More of my new media artworks on [echohuiecho.com](https://www.echohuiecho.com/)
-- An artist-led virtual platform based in Hong Kong. It will focus on the loss of smell, smell awareness and visualization of smell related data. Coming soon on [noseborg.com](https://www.noseborg.com/)
-- An :clock1:ongoing experimental, fictional and virtual hotel project on [amorphoushotel.com](https://www.amorphoushotel.com/). A project working with a Hong Kong female artist [Kelly Chu](https://www.chukellychu.com) in a renowned hotel [Eaton HK](https://www.eatonworkshop.com/) under Langham Hospitality Group.
+- :clock1: Coming Soon :clock1: An artist-led virtual platform based in Hong Kong. It will focus on the loss of smell, smell awareness and visualization of smell related data. Coming soon on [noseborg.com](https://www.noseborg.com/)
