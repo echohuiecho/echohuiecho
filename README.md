@@ -1,5 +1,5 @@
 # Hi, I'm Echo Hui :nose: <span style="color: #a6a6a6"><sub>(she/they)</sub></span>
-I am a creative developer and a web developer who explores of boundaries of senses and perception, especially sight and smell.
+I am a creative developer and a software developer who explores of boundaries of senses and perception, especially sight and smell.
 
 Born without the sense of smell (Anosmia):nose:, I am finding ways to start conversations about smell via code, art, technology :technologist: in the world dominated by vision. My recent interest departs from the investigation of the sense of smell using olfactory technology and olfactory data (:computer::clock1:It's still under development:clock1130:).
 
